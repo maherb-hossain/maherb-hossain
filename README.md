@@ -1,12 +1,68 @@
-# Hey, I'm Maherab Hossain 👋
+#I'm Maherab Hossain 👋
 
 ## Official Github 
 [![Github](https://img.shields.io/badge/Github-%23E4405F.svg?logo=Github&logoColor=white)](https://github.com/https://www.github.com/maherab-hossain) 
 
+Hey, 
+
+I’m a Front End Web Developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, CSS, Javascript, jQuery, SASS as well and 
+Bootstrap.
 
 
-# 💫 About Me:
-🔭 I’m currently studying on becoming a Front-end Developer.<br><br>🌱 I’m currently learning Javascript.<br><br>🔍 Take a look at my projects on Frontend Mentor!.<br><br>📫 How to reach me: Linkedin<br><br>💬 Ask me about HTML and CSS.<br><br>🤝 I’m looking for help in learning about Accessible Websites.<br><br>👯 I’m looking to collaborate on the front end developing new open-source projects.
+🔭 As a programmer, I am passionate about web programming and dedicated to becoming a skilled 
+ front-end developer.
+ 
+
+👨‍💻 My goal is to create scalable, maintainable, and user-friendly websites that provide a more 
+ reasonable user experience.
+ 
+
+📝 Currently, I am focused on honing my skills in JavaScript, continuously learning and experimenting 
+ with new technologies and frameworks to find the best solutions for any given problem.
+ 
+
+🔍 Explore my projects on GitHub to see examples of my work and coding style.
+
+
+📨 Feel free to reach out to me and discuss opportunities, share knowledge, or collaborate on exciting 
+ projects.
+
+💻 I am eager to learn more about developing accessible websites and would greatly appreciate any 
+ guidance or assistance in expanding my knowledge in this important field.
+ 
+
+🤝 I am actively seeking collaborations on front-end development projects, particularly those that 
+ involve open-source initiatives. Let's work together to create innovative solutions!
+
+
+🏆 Goals :<br/>
+Master the advanced level of the JavaScript programming language.
+Build a striking website using JavaScript and jQuery.
+Gain experience in developing full-stack websites using React and Node.js.
+Deepen my understanding of web accessibility standards and implement them in all my projects.
+Enhance my UI/UX design skills by learning new design techniques and tools.
+
+📈 Achievements :<br/>
+• Successfully delivered 100+ responsive and visually stunning websites, ensuring exceptional user 
+ experiences and client satisfaction.
+• Optimized website performance, achieving significantly reduced load times and improved user 
+ satisfaction.
+
+🛠️ Languages and Tools : <br/>
+
+〽️ Web Front End :<br/>
+
+ HTML5, CSS3, SCSS, JavaScript, jQuery, Bootstrap
+
+🗄️ Database :<br/>
+
+ SQLite, MySQL
+ 
+
+💻 Software and Tools :<br/>
+
+ Git, GitHub, Linux, Adobe XD, Sketch, Figma, Canva, Adobe Photoshop, Visual Studio Code, Microsoft 
+ Office
 
 
 ## 🌐 Socials:
